@@ -1,3 +1,4 @@
 # mi-html-css-preppuppgift
 Preppuppgift för HTML och CSS kursen
-hej
+
+hej, jag har en hund som heter Doris.
